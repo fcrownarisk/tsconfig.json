@@ -4,7 +4,7 @@
           "Blue.js",
           "Green.js",
           "Red.js",
-          "RGBimpact",
+          "RGBimpact.js",
 
           "antiinoutensor.js",
           "antioutintensor.js",
@@ -69,7 +69,7 @@
             "CH4.ts",
             "cylinder.ts",
             "sphere.ts",
-            "tetraheedron.ts",
+            "tetrahedron.ts",
             "fermat.ts",
             "fermat0.ts",
             "fermat1.ts",
