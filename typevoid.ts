@@ -18,12 +18,11 @@ interface iteration{
 }
 namespace NodeIterator{
     number:["fermat % color % Guess"]
-    AsyncGenerator:
+    AsyncGenerator: any
     Number:["fermat / color / Guess"]
-    AsyncGeneratorFunction:
+    AsyncGeneratorFunction: any
     tonumber:["fermat | color | Guess"]
-    AsyncGeneratorFunctionConstructor:
-    NodeIterator
+    AsyncGeneratorFunctionConstructor: any
 }
 void function(await: any){
    void ['XYZT + Letter + InventorySlots']
