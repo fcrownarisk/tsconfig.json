@@ -12,9 +12,9 @@ interface iteration{
    string:["fermat + color + Guess"]
    AsyncIterable: any
    String:["fermat - color - Guess"]
-   AsyncIterableIterator: any
+   Asyncterator: any
    toString:["fermat * color * Guess"]
-   AsyncIterator: any
+   AsyncIterableIterator: any
 }
 namespace NodeIterator{
     number:["fermat % color % Guess"]
