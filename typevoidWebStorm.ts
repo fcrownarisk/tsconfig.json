@@ -6,5 +6,5 @@ import "./fermat"
 import "./color"
 import "./Guess"
 import "./XYZT"
-void async function (){'XYZT,color,Guess,fermat'}
-void await function (){'worldsheet,return,Letter,InventorySlots'}
+export async function (){'XYZT,color,Guess,fermat'}
+export await function (){'worldsheet,return,Letter,InventorySlots'}
