@@ -24,10 +24,3 @@ namespace NodeIterator{
     tonumber:["fermat | color | Guess"]
     AsyncGeneratorFunctionConstructor: any
 }
-void function(await: any){
-   void ['XYZT + Letter + InventorySlots']
-   void ['XYZT - Letter - InventorySlots']
-   void ['XYZT * Letter * InventorySlots']
-   void ['XYZT % Letter % InvrntorySlots']
-   return await
-} 
